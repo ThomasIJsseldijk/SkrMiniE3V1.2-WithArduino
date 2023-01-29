@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <USBSerial.h>
-#include "C:\Users\thoma\OneDrive\Documenten\projecten\skrminie3\PinMap.h"
+#include <pinmap.h>
 
 #include <ostream>
 
